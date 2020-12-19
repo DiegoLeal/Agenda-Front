@@ -1,0 +1,39 @@
+.form {
+    margin-bottom: 1rem;    
+    max-width: 30rem;
+    padding: 5rem;   
+    margin: auto;      
+  }
+
+  section {    
+    margin-top: 2rem;
+  }
+
+  h1 {
+    font-family: var(--type-second);
+    margin-left: 20rem;
+    line-height: 1;
+    font-size: 2rem;
+    margin-left: 10rem;
+    margin: 1rem 0;
+    position: relative;
+    z-index: 1;
+  }
+
+ button {
+    margin-right: 15rem;
+ }
+
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
